@@ -1,0 +1,967 @@
+2025-03-23 08:23:26,695 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-03-23 08:23:26,697 - INFO -  * Running on http://172.31.2.60:8000/ (Press CTRL+C to quit)
+2025-03-23 08:23:26,698 - INFO -  * Restarting with stat
+2025-03-23 08:23:26,865 - WARNING -  * Debugger is active!
+2025-03-23 08:23:26,865 - INFO -  * Debugger PIN: 104-690-216
+2025-03-23 08:24:10,933 - INFO - Home page accessed
+2025-03-23 08:24:10,935 - INFO - 58.84.60.21 - - [23/Mar/2025 08:24:10] "GET / HTTP/1.1" 200 -
+2025-03-23 08:29:06,859 - INFO - Home page accessed
+2025-03-23 08:29:11,783 - INFO - Home page accessed
+2025-03-23 09:29:49,322 - INFO - Home page accessed
+2025-03-23 11:26:49,826 - INFO - Home page accessed
+2025-03-23 11:27:13,122 - INFO - Home page accessed
+2025-03-23 15:21:12,463 - INFO - Home page accessed
+2025-03-23 18:50:02,674 - INFO - Home page accessed
+2025-03-23 20:16:55,089 - INFO - Home page accessed
+2025-03-24 02:25:53,891 - INFO - Home page accessed
+2025-03-24 04:35:12,853 - INFO - Home page accessed
+2025-03-24 06:34:42,447 - INFO - Home page accessed
+2025-03-24 09:25:01,046 - INFO - Home page accessed
+2025-03-24 09:40:45,035 - INFO - Home page accessed
+2025-03-24 09:58:57,413 - INFO - Home page accessed
+2025-03-24 09:59:37,914 - INFO - Home page accessed
+2025-03-24 11:35:57,214 - INFO - Home page accessed
+2025-03-24 11:36:16,023 - INFO - Home page accessed
+2025-03-24 12:37:00,068 - INFO - Home page accessed
+2025-03-24 21:45:23,048 - INFO - Home page accessed
+2025-03-25 01:21:24,144 - INFO - Home page accessed
+2025-03-25 02:26:00,525 - INFO - Home page accessed
+2025-03-25 02:26:52,594 - INFO - Home page accessed
+2025-03-25 05:24:21,281 - INFO - Home page accessed
+2025-03-25 07:24:39,363 - INFO - Home page accessed
+2025-03-25 15:10:54,955 - INFO - Home page accessed
+2025-03-25 16:49:21,023 - INFO - Home page accessed
+2025-03-25 23:23:46,997 - INFO - Home page accessed
+2025-03-25 23:46:23,815 - INFO - Home page accessed
+2025-03-26 15:52:58,193 - INFO - Home page accessed
+2025-03-26 18:03:32,610 - INFO - Home page accessed
+2025-03-26 19:08:41,827 - INFO - Home page accessed
+2025-03-26 21:39:22,619 - INFO - Home page accessed
+2025-03-26 21:39:26,769 - INFO - Home page accessed
+2025-03-26 21:41:10,527 - INFO - Home page accessed
+2025-03-27 01:12:41,801 - INFO - Home page accessed
+2025-03-27 01:24:03,044 - INFO - Home page accessed
+2025-03-27 03:10:09,187 - INFO - Home page accessed
+2025-03-27 04:57:59,274 - INFO - Home page accessed
+2025-03-27 04:58:23,000 - INFO - Home page accessed
+2025-03-27 07:55:17,098 - INFO - Home page accessed
+2025-03-27 08:25:48,283 - INFO - Home page accessed
+2025-03-27 08:57:23,524 - INFO - Home page accessed
+2025-03-27 09:01:18,506 - INFO - Home page accessed
+2025-03-27 09:40:29,704 - INFO - Home page accessed
+2025-03-27 09:40:30,896 - INFO - Home page accessed
+2025-03-27 13:30:09,924 - INFO - Home page accessed
+2025-03-27 13:30:14,131 - INFO - Home page accessed
+2025-03-27 14:17:57,937 - INFO - Home page accessed
+2025-03-27 21:17:00,682 - INFO - Home page accessed
+2025-03-28 00:53:27,706 - INFO - Home page accessed
+2025-03-28 00:54:14,831 - INFO - Home page accessed
+2025-03-28 03:51:53,387 - INFO - Home page accessed
+2025-03-28 05:20:29,288 - INFO - Home page accessed
+2025-03-28 09:48:44,708 - INFO - Home page accessed
+2025-03-28 09:50:45,216 - INFO - Home page accessed
+2025-03-28 10:01:04,416 - INFO - Home page accessed
+2025-03-28 11:04:17,289 - INFO - Home page accessed
+2025-03-28 11:04:31,676 - INFO - Home page accessed
+2025-03-28 14:44:04,148 - INFO - Home page accessed
+2025-03-28 18:02:13,979 - INFO - Home page accessed
+2025-03-29 01:27:50,969 - INFO - Home page accessed
+2025-03-29 02:15:34,280 - INFO - Home page accessed
+2025-03-29 02:33:00,674 - INFO - Home page accessed
+2025-03-29 05:27:18,551 - INFO - Home page accessed
+2025-03-29 08:28:44,334 - INFO - Home page accessed
+2025-03-29 08:45:36,823 - INFO - Home page accessed
+2025-03-29 08:45:55,289 - INFO - Home page accessed
+2025-03-29 11:06:12,534 - INFO - Home page accessed
+2025-03-29 11:06:54,377 - INFO - Home page accessed
+2025-03-29 13:32:45,662 - INFO - Home page accessed
+2025-03-29 21:20:54,663 - INFO - Home page accessed
+2025-03-29 23:58:07,183 - INFO - Home page accessed
+2025-03-30 13:33:40,838 - INFO - Home page accessed
+2025-03-30 13:58:00,100 - INFO - Home page accessed
+2025-03-30 15:20:12,853 - INFO - Home page accessed
+2025-03-30 16:43:25,836 - INFO - Home page accessed
+2025-03-30 17:06:58,304 - INFO - Home page accessed
+2025-03-30 17:45:47,073 - INFO - Home page accessed
+2025-03-30 17:51:24,291 - INFO - Home page accessed
+2025-03-30 17:59:04,261 - INFO - Home page accessed
+2025-03-30 18:40:41,978 - INFO - Home page accessed
+2025-03-30 19:27:26,343 - INFO - Home page accessed
+2025-03-30 19:58:26,496 - INFO - Home page accessed
+2025-03-30 21:06:28,287 - INFO - Home page accessed
+2025-03-31 02:36:50,026 - INFO - Home page accessed
+2025-03-31 04:53:40,616 - INFO - Home page accessed
+2025-03-31 04:54:02,052 - INFO - Home page accessed
+2025-03-31 07:24:15,808 - INFO - Home page accessed
+2025-03-31 07:35:18,672 - INFO - Home page accessed
+2025-03-31 13:57:43,647 - INFO - Home page accessed
+2025-03-31 16:13:39,520 - INFO - Home page accessed
+2025-03-31 16:53:10,063 - INFO - Home page accessed
+2025-03-31 19:12:42,420 - INFO - Home page accessed
+2025-03-31 19:49:25,497 - INFO - Home page accessed
+2025-03-31 21:22:41,941 - INFO - Home page accessed
+2025-03-31 21:43:10,633 - INFO - Home page accessed
+2025-03-31 21:47:58,340 - INFO - Home page accessed
+2025-04-01 00:29:46,818 - INFO - Home page accessed
+2025-04-01 00:54:51,607 - INFO - Home page accessed
+2025-04-01 04:07:30,003 - INFO - Home page accessed
+2025-04-01 06:08:16,731 - INFO - Home page accessed
+2025-04-01 06:24:46,145 - INFO - Home page accessed
+2025-04-01 06:27:09,349 - INFO - Home page accessed
+2025-04-01 07:15:34,130 - INFO - Home page accessed
+2025-04-01 07:41:56,731 - INFO - Home page accessed
+2025-04-01 09:22:50,949 - INFO - Home page accessed
+2025-04-01 10:20:43,200 - INFO - Home page accessed
+2025-04-01 10:34:06,164 - INFO - Home page accessed
+2025-04-01 12:04:16,160 - INFO - Home page accessed
+2025-04-01 12:42:23,170 - INFO - Home page accessed
+2025-04-01 13:16:00,648 - INFO - Home page accessed
+2025-04-01 13:36:17,915 - INFO - Home page accessed
+2025-04-01 16:08:48,219 - INFO - Home page accessed
+2025-04-01 16:30:06,183 - INFO - Home page accessed
+2025-04-01 16:31:29,119 - INFO - Home page accessed
+2025-04-01 18:42:28,460 - INFO - Home page accessed
+2025-04-01 19:19:32,544 - INFO - Home page accessed
+2025-04-02 01:21:40,333 - INFO - Home page accessed
+2025-04-02 02:22:29,624 - INFO - Home page accessed
+2025-04-02 03:20:35,767 - INFO - Home page accessed
+2025-04-02 07:52:52,141 - INFO - Home page accessed
+2025-04-02 08:48:19,068 - INFO - Home page accessed
+2025-04-02 08:49:45,364 - INFO - Home page accessed
+2025-04-02 12:05:47,811 - INFO - Home page accessed
+2025-04-02 12:09:33,566 - INFO - Home page accessed
+2025-04-02 12:09:55,064 - INFO - Home page accessed
+2025-04-02 13:29:14,930 - INFO - Home page accessed
+2025-04-02 16:47:40,675 - INFO - Home page accessed
+2025-04-02 16:47:47,186 - INFO - Home page accessed
+2025-04-02 20:20:05,195 - INFO - Home page accessed
+2025-04-02 21:45:06,114 - INFO - Home page accessed
+2025-04-02 23:04:30,296 - INFO - Home page accessed
+2025-04-02 23:06:03,707 - INFO - Home page accessed
+2025-04-03 00:41:58,350 - INFO - Home page accessed
+2025-04-03 04:00:44,484 - INFO - Home page accessed
+2025-04-03 04:37:30,292 - INFO - Home page accessed
+2025-04-03 08:14:26,222 - INFO - Home page accessed
+2025-04-03 11:23:06,425 - INFO - Home page accessed
+2025-04-03 11:24:22,487 - INFO - Home page accessed
+2025-04-03 12:15:16,078 - INFO - Home page accessed
+2025-04-03 13:09:13,048 - INFO - Home page accessed
+2025-04-03 13:33:30,539 - INFO - Home page accessed
+2025-04-03 18:08:40,894 - INFO - Home page accessed
+2025-04-03 20:15:04,054 - INFO - Home page accessed
+2025-04-03 21:49:42,298 - INFO - Home page accessed
+2025-04-03 22:14:59,834 - INFO - Home page accessed
+2025-04-04 02:37:47,047 - INFO - Home page accessed
+2025-04-04 02:55:01,935 - INFO - Home page accessed
+2025-04-04 02:55:34,110 - INFO - Home page accessed
+2025-04-04 02:55:50,583 - INFO - Home page accessed
+2025-04-04 02:56:28,545 - INFO - Home page accessed
+2025-04-04 04:05:15,590 - INFO - Home page accessed
+2025-04-04 04:37:48,483 - INFO - Home page accessed
+2025-04-04 05:24:45,669 - INFO - Home page accessed
+2025-04-04 06:51:48,686 - INFO - Home page accessed
+2025-04-04 09:24:15,045 - INFO - Home page accessed
+2025-04-04 09:38:47,975 - INFO - Home page accessed
+2025-04-04 11:19:21,732 - INFO - Home page accessed
+2025-04-04 12:21:04,091 - INFO - Home page accessed
+2025-04-04 12:42:26,191 - INFO - Home page accessed
+2025-04-04 13:32:59,518 - INFO - Home page accessed
+2025-04-04 16:25:27,620 - INFO - Home page accessed
+2025-04-05 00:56:16,597 - INFO - Home page accessed
+2025-04-05 02:30:02,081 - INFO - Home page accessed
+2025-04-05 02:31:20,151 - INFO - Home page accessed
+2025-04-05 03:58:20,461 - INFO - Home page accessed
+2025-04-05 07:29:37,100 - INFO - Home page accessed
+2025-04-05 12:18:11,047 - INFO - Home page accessed
+2025-04-05 12:35:44,146 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-05 12:35:44,146 - INFO -  * Running on http://172.31.2.60:8000/ (Press CTRL+C to quit)
+2025-04-05 12:55:26,906 - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 365, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 691, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 153, in __init__
+    self.connect(**kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1529, in connect
+    self._open_connection()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 370, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 2005 (HY000): Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/ec2-user/flask-app/app.py", line 56, in index
+    tasks = Task.query.all()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/query.py", line 2773, in all
+    return self._iter().all()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/query.py", line 2916, in _iter
+    result = self.session.execute(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 1713, in execute
+    conn = self._connection_for_bind(bind)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 1552, in _connection_for_bind
+    return self._transaction._connection_for_bind(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 747, in _connection_for_bind
+    conn = bind.connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3315, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3394, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3364, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 2198, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 691, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 153, in __init__
+    self.connect(**kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1529, in connect
+    self._open_connection()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 370, in _open_connection
+    raise get_mysql_exception(
+sqlalchemy.exc.DatabaseError: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+2025-04-05 12:55:27,323 - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 365, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 691, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 153, in __init__
+    self.connect(**kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1529, in connect
+    self._open_connection()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 370, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 2005 (HY000): Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/ec2-user/flask-app/app.py", line 56, in index
+    tasks = Task.query.all()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/query.py", line 2773, in all
+    return self._iter().all()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/query.py", line 2916, in _iter
+    result = self.session.execute(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 1713, in execute
+    conn = self._connection_for_bind(bind)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 1552, in _connection_for_bind
+    return self._transaction._connection_for_bind(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 747, in _connection_for_bind
+    conn = bind.connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3315, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3394, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3364, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 2198, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 691, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 153, in __init__
+    self.connect(**kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1529, in connect
+    self._open_connection()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 370, in _open_connection
+    raise get_mysql_exception(
+sqlalchemy.exc.DatabaseError: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+2025-04-05 12:56:08,755 - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 365, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 691, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 153, in __init__
+    self.connect(**kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1529, in connect
+    self._open_connection()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 370, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 2005 (HY000): Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/ec2-user/flask-app/app.py", line 56, in index
+    tasks = Task.query.all()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/query.py", line 2773, in all
+    return self._iter().all()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/query.py", line 2916, in _iter
+    result = self.session.execute(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 1713, in execute
+    conn = self._connection_for_bind(bind)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 1552, in _connection_for_bind
+    return self._transaction._connection_for_bind(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 747, in _connection_for_bind
+    conn = bind.connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3315, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3394, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3364, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 2198, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 691, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 153, in __init__
+    self.connect(**kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1529, in connect
+    self._open_connection()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 370, in _open_connection
+    raise get_mysql_exception(
+sqlalchemy.exc.DatabaseError: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+2025-04-05 13:00:08,767 - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 365, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 691, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 153, in __init__
+    self.connect(**kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1529, in connect
+    self._open_connection()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 370, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 2005 (HY000): Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/ec2-user/flask-app/app.py", line 56, in index
+    tasks = Task.query.all()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/query.py", line 2773, in all
+    return self._iter().all()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/query.py", line 2916, in _iter
+    result = self.session.execute(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 1713, in execute
+    conn = self._connection_for_bind(bind)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 1552, in _connection_for_bind
+    return self._transaction._connection_for_bind(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 747, in _connection_for_bind
+    conn = bind.connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3315, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3394, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3364, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 2198, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 691, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 153, in __init__
+    self.connect(**kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1529, in connect
+    self._open_connection()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 370, in _open_connection
+    raise get_mysql_exception(
+sqlalchemy.exc.DatabaseError: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+2025-04-05 13:00:09,202 - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 365, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 691, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 153, in __init__
+    self.connect(**kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1529, in connect
+    self._open_connection()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 370, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 2005 (HY000): Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/ec2-user/flask-app/app.py", line 56, in index
+    tasks = Task.query.all()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/query.py", line 2773, in all
+    return self._iter().all()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/query.py", line 2916, in _iter
+    result = self.session.execute(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 1713, in execute
+    conn = self._connection_for_bind(bind)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 1552, in _connection_for_bind
+    return self._transaction._connection_for_bind(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 747, in _connection_for_bind
+    conn = bind.connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3315, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3394, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3364, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 2198, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 691, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 153, in __init__
+    self.connect(**kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1529, in connect
+    self._open_connection()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 370, in _open_connection
+    raise get_mysql_exception(
+sqlalchemy.exc.DatabaseError: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+2025-04-05 13:22:42,060 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-05 13:22:42,060 - INFO -  * Running on http://172.31.2.60:8001/ (Press CTRL+C to quit)
+2025-04-05 13:31:59,562 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-05 13:31:59,562 - INFO -  * Running on http://172.31.2.60:8001/ (Press CTRL+C to quit)
+2025-04-05 20:06:03,883 - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 365, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 691, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 153, in __init__
+    self.connect(**kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1529, in connect
+    self._open_connection()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 370, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 2005 (HY000): Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/ec2-user/flask-app/app.py", line 56, in index
+    tasks = Task.query.all()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/query.py", line 2773, in all
+    return self._iter().all()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/query.py", line 2916, in _iter
+    result = self.session.execute(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 1713, in execute
+    conn = self._connection_for_bind(bind)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 1552, in _connection_for_bind
+    return self._transaction._connection_for_bind(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/orm/session.py", line 747, in _connection_for_bind
+    conn = bind.connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3315, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3394, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3364, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 2198, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/base.py", line 3361, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 691, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib64/python3.9/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 153, in __init__
+    self.connect(**kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/abstracts.py", line 1529, in connect
+    self._open_connection()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/mysql/connector/connection_cext.py", line 370, in _open_connection
+    raise get_mysql_exception(
+sqlalchemy.exc.DatabaseError: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'umari%2205083@172.31.1.156' (-2)
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+2025-04-05 20:22:50,460 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-05 20:22:50,461 - INFO -  * Running on http://172.31.2.60:8001/ (Press CTRL+C to quit)
+2025-04-05 20:30:10,596 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-05 20:30:10,597 - INFO -  * Running on http://172.31.2.60:8001/ (Press CTRL+C to quit)
+2025-04-05 21:58:46,468 - INFO - This is a test log message.
+2025-04-05 22:00:01,472 - INFO - This is a test log message.
+2025-04-05 22:00:01,481 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-05 22:00:01,481 - INFO -  * Running on http://172.31.2.60:8001/ (Press CTRL+C to quit)
+2025-04-05 22:12:12,221 - INFO - Fetched all tasks
+2025-04-05 22:12:22,696 - INFO - Task added: make project
+2025-04-05 22:12:22,877 - INFO - Fetched all tasks

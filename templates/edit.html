@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Task</title>
+</head>
+<body>
+    <h1>Edit Task</h1>
+
+    <form method="POST" action="/edit/{{ task.id }}">
+        <!-- CSRF Token for security (optional, if you're using Flask-WTF) -->
+                
+        <!-- Input field for task content, pre-filled with the current task content -->
+        <label for="content">Task Content:</label>
+        <input type="text" id="content" name="content" value="{{ task.content }}" required>
+
+        <!-- Submit button -->
+        <input type="submit" value="Update Task">
+    </form>
+
+    {% with messages = get_flashed_messages() %}
+        {% if messages %}
+            <ul>
+                {% for message in messages %}
+                    <li>{{ message }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    {% endwith %}
+
+    <br><br>
+    <a href="/">Back to Task List</a>
+</body>
+</html>
