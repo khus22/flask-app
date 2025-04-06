@@ -1,18 +1,28 @@
 #!/bin/bash
-set -e
 
-LOG_FILE="/home/ec2-user/flask-app/deploy.log"
-exec >> "$LOG_FILE" 2>&1
-echo "----- Deployment started at $(date) -----"
+# Log file path
+LOG_FILE="/home/ec2-user/flask-app/logs/deploy.log"
 
-cd /home/ec2-user/flask-app || { echo "❌ Failed to cd into project directory"; exit 1; }
+# Start logging
+{
+    echo "------ DEPLOYMENT STARTED AT $(date) ------"
 
-echo "✅ Pulling the latest code from GitHub..."
-git pull origin main || { echo "❌ Git pull failed"; exit 1; }
+    # Navigate to the Flask app directory
+    cd /home/ec2-user/flask-app || { echo "ERROR: Cannot access project directory"; exit 1; }
 
-echo "🔁 Restarting Gunicorn service..."
-sudo systemctl restart gunicorn || { echo "❌ Failed to restart Gunicorn"; exit 1; }
+    # Pull the latest changes from GitHub (main branch)
+    echo "Pulling the latest code from GitHub..."
+    git pull origin main
 
-echo "✅ Deployment completed at $(date)"
-echo "------------------------------------------"
+    # Restart Gunicorn to apply changes
+    echo "Restarting Gunicorn..."
+    sudo systemctl restart gunicorn
 
+    # Check Gunicorn status
+    echo "Gunicorn status:"
+    sudo systemctl status gunicorn --no-pager
+
+    echo "Deployment completed successfully!"
+    echo "------ DEPLOYMENT FINISHED AT $(date) ------"
+    echo ""
+} >> "$LOG_FILE" 2>&1
