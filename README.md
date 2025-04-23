@@ -60,8 +60,9 @@ The app uses:
 ssh -i my-key.pem ec2-user@<bastion-public-ip>
 ssh -i my-key.pem ec2-user@<mysql-private-ip>  # From bastion
 
-**### 5. Mysql setup **
+### 5. MySQL Setup
 
+```bash
 sudo yum install -y mysql-server
 sudo systemctl start mysqld
 sudo systemctl enable mysqld
