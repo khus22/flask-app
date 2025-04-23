@@ -201,9 +201,8 @@ sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-ctl \
   ```
 
 ### 12. Flask Logging Integration
- Integrated robust logging in app.py:
-Logs saved to app.log
-Critical events/errors are visible for troubleshooting
+ Integrated robust logging in app.py:Logs saved to app.log
+ - Critical events/errors are visible for troubleshooting
 bash
 ```
 import logging
@@ -213,6 +212,6 @@ logging.basicConfig(filename='app.log', level=logging.INFO,
 
 
 ### 13.👨‍💻 Developed By
-    Khushboo
-📧 Khushboobhardwaj1999@gmail.com
-🔗 GitHub: khus22
+- Khushboo
+- 📧 Khushboobhardwaj1999@gmail.com
+- 🔗 GitHub: [khus22](https://github.com/khus22/)
