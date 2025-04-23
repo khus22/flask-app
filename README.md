@@ -59,28 +59,26 @@ The app uses:
 ```bash
 ssh -i my-key.pem ec2-user@<bastion-public-ip>
 ssh -i my-key.pem ec2-user@<mysql-private-ip>  # From bastion
-   
 
-### 5. Mysql setup 
+**### 5. Mysql setup **
 
 sudo yum install -y mysql-server
 sudo systemctl start mysqld
 sudo systemctl enable mysqld
 
-
-### 6.Create user and DB:
+**### 6. Create user and DB:**
 
 CREATE DATABASE flaskappdb;
 CREATE USER 'flaskuser'@'%' IDENTIFIED BY 'Passworddb';
 GRANT ALL PRIVILEGES ON flaskappdb.* TO 'flaskuser'@'%';
 FLUSH PRIVILEGES;
 
-### 7. Flask App Config
+**### 7. Flask App Config**
 python
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://flaskuser:Passworddb@<private-ip>:3306/flaskappdb'
 
-### 8. Deploy with Gunicorn
+**### 8. Deploy with Gunicorn**
 bash
 ```
 pip install gunicorn
@@ -88,7 +86,7 @@ sudo systemctl enable gunicorn
 sudo systemctl start gunicorn
 ```
 
-###👨‍💻 Developed By
+**###👨‍💻 Developed By**
     Khushboo
 📧 Khushboobhardwaj1999@gmail.com
 🔗 GitHub: khus22
