@@ -59,15 +59,16 @@ The app uses:
 ```bash
 ssh -i my-key.pem ec2-user@<bastion-public-ip>
 ssh -i my-key.pem ec2-user@<mysql-private-ip>  # From bastion
+```
 
-### 5. MySQL Setup
-
+### 5. MySQL Setup In private Instances
 ```bash
 sudo yum install -y mysql-server
 sudo systemctl start mysqld
 sudo systemctl enable mysqld
+```
 
-**### 6. Create user and DB:**
+### 6. Create user and DB:
 
 CREATE DATABASE flaskappdb;
 CREATE USER 'flaskuser'@'%' IDENTIFIED BY 'Passworddb';
@@ -87,7 +88,7 @@ sudo systemctl enable gunicorn
 sudo systemctl start gunicorn
 ```
 
-**###👨‍💻 Developed By**
+### 9.👨‍💻 Developed By
     Khushboo
 📧 Khushboobhardwaj1999@gmail.com
 🔗 GitHub: khus22
